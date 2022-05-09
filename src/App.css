@@ -1,4 +1,5 @@
 .App {
+  font-family: Chilanka;
   text-align: center;
 }
 
@@ -14,18 +15,18 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #EEF4F4;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #1B379A;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #1B379A;
 }
 
 /*@keyframes App-logo-spin {
